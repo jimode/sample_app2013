@@ -1,4 +1,6 @@
 SampleApp2013::Application.routes.draw do
+  get "git/status"
+
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
