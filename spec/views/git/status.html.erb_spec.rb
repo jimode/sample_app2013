@@ -1,5 +1,5 @@
-require 'spec_helper'
+# require 'spec_helper'
 
-describe "git/status.html.erb" do
-  pending "add some examples to (or delete) #{__FILE__}"
-end
+# describe "git/status.html.erb" do
+#   pending "add some examples to (or delete) #{__FILE__}"
+# end
